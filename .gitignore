@@ -2,3 +2,4 @@ sn3k_repo
 *.pem
 *.crt
 *.key
+PrusaSlicer.ini
